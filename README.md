@@ -36,9 +36,6 @@
   <a href="https://github.com/Varadrajraikar?tab=repositories">
     <img src="https://streak-stats.demolab.com?user=Varadrajraikar&amp;locale=en&amp;mode=weekly&amp;theme=github_dark&amp;hide_border=true&amp;border_radius=5" height="150" alt="Varadraj's weekly GitHub contribution streak" />
   </a>
-  <a href="https://github.com/Varadrajraikar?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varadrajraikar&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" height="150" alt="Languages used across Varadraj's public GitHub repositories" />
-  </a>
 </div>
 
 ### 📫 Connect with Me
